@@ -6,10 +6,10 @@
 
 ### 1. Balanced Track Car
 
-[Video here](url)
+[Video here](https://github.com/yunzhi-teng/yunzhi-teng.github.io/raw/master/car.mp4)
 ### 2. "Back to Your Position" System
 
-[Video here](url)
+[Video here](https://github.com/yunzhi-teng/yunzhi-teng.github.io/raw/master/carbywind.mp4)
 ### 3. Panorama
 
 ### 4. Buzzer Can Sing
