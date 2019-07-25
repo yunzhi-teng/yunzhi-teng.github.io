@@ -18,7 +18,7 @@
 ### 3. Monopoly game
 
 ### 4. Buzzer Can Sing
--  It is Cannon in D by Pachelbel performed via a buzzer by controlling its frequency using PWM. (The most interesting part)  
+-  It is 《Cannon in D》 by Pachelbel performed via a buzzer by controlling its frequency using PWM. (The most interesting part)  
 -    Actually, as you can see, this is a intelligent watering system with MCU controled electromagnetic valve. It has sensors to abtain the temperature and humidity of the soil in order to determine when to water. It also can communicate with smart phone using bluetooth to send the data and receive commands.
 
 **[Video here](https://github.com/yunzhi-teng/yunzhi-teng.github.io/raw/master/sigmawatering.mp4)** or **[watch on youtube](https://youtu.be/lsvGj_Xr2Rg)**
