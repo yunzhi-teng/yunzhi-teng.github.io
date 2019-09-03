@@ -2,9 +2,10 @@
 ## About me
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I was born in Zibo, Shandong, China in 1997. I received Bachelor degree in Automation at USTB(University of Science and Technology Beijing) in 2019. I also worked in Sensetime as a research intern from December, 2018. 
 
+## Recently
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am working on deployment of deeplearning, which combines system and deeplearning and **[3D vision](https://github.com/yunzhi-teng/CNSLAM)** in Sensetime Research (intern). 
 
 ## previous undergraduate projects (selected)
-
 ### 1. Balanced Lane-tracking Car
 -	Two wheel standing balanced car
 -	Vison based lane-tracking
