@@ -1,4 +1,4 @@
-# Teng yunzhi 滕云志
+# Teng yunzhi 滕云志 (Unmaintained)
 ## About me
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I was born in Zibo, Shandong, China in 1997. I received Bachelor degree in Automation at USTB(University of Science and Technology Beijing) in 2019. I also worked in Sensetime as a research intern from December, 2018. 
 
